@@ -63,4 +63,18 @@
 
 ##### [目前最全的中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 
+## 番外篇，多年前总结的一些经验，包含了各种 API 接口，添加广告，和注意事项
+
+##### [科普技术贴：个人开发者的那些赚钱方式](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=209744558&idx=1&sn=b88ff6edce3256e7dee2d788bd143219&scene=21#wechat_redirect)
+
+##### [强烈推荐：程序员接私活那点事](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=400669680&idx=1&sn=b15d90cb22f0bc715436224b9301ca61&scene=21#wechat_redirect)
+
+##### [绝对干货：供个人开发者赚钱免费使用的一些好的 API 接口](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=400044525&idx=1&sn=04d1b413c90d0cac43788be033b2e420&scene=21#wechat_redirect)
+
+##### [超值干货：个人开发者如何使用免费又简单的开发后台](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=400109669&idx=1&sn=01aecde92d128623c664fdcd5335651b&scene=21#wechat_redirect)
+
+##### [夹缝中生存的个人开发者](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=404944969&idx=1&sn=385e9165e7355db0a25841673897a16a&scene=21#wechat_redirect)
+
+##### [赚钱必看：独立开发者必知的一些总结](https://mp.weixin.qq.com/s/VtjNQpC74qnfB-bH48TKCw)
+
 
