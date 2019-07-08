@@ -53,6 +53,7 @@
 ##### [解决掉这些疑难杂症，你就是一个优秀的独立开发者](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653061590&idx=1&sn=83104124f64ab42c30797f77b2b85527&chksm=bd56a2ea8a212bfce4ea053b05e51d31a629377349a94a39ffa32991280cfeaa6c0d75a8103c&scene=21#wechat_redirect)
 
 <hr/>
+
 ## 产品展示篇：中国独立开发者项目列表 
 
 **聚合所有中国独立开发者的项目**
