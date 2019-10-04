@@ -77,6 +77,10 @@
 
 ##### [赚钱必看：独立开发者必知的一些总结](https://mp.weixin.qq.com/s/VtjNQpC74qnfB-bH48TKCw)
 
+## 副业篇，7 个低成本跨境在线创业项目
+
+##### [副业刚需，我找了 7 个低成本且可靠的跨境在线创业计划](https://github.com/xiaoming2028/FreeNetwork/wiki/%E5%89%AF%E4%B8%9A%E5%88%9A%E9%9C%80%EF%BC%8C%E6%88%91%E6%89%BE%E4%BA%867%E4%B8%AA%E4%BD%8E%E6%88%90%E6%9C%AC%E4%B8%94%E5%8F%AF%E9%9D%A0%E7%9A%84%E8%B7%A8%E5%A2%83%E5%9C%A8%E7%BA%BF%E5%88%9B%E4%B8%9A%E8%AE%A1%E5%88%92)
+
 ## 外国独立开发者相关资料整理篇
 
 **awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理**
