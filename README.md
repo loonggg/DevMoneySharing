@@ -36,6 +36,8 @@
 
 ##### [怎样才能像月「睡后收入」 20 万的独立开发者一样挣钱？](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653061557&idx=1&sn=829d149df94a520c60d4ebe8e06a4891&chksm=bd56a2898a212b9fa6ae1ad85cd3747b2daa3cd072a6bd3211d33a61afcf25e7658ead9e7e75&scene=21#wechat_redirect)
 
+##### [讲一个程序员如何副业月赚三万的真实故事](https://mp.weixin.qq.com/s/b0oLHGcM_x0T9xsFPBjdGw)
+
 <hr/>
 
 ### 技巧和经验分享篇
