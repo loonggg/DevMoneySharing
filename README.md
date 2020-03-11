@@ -44,6 +44,8 @@
 
 ##### [独立开发者为什么不需要运营也能月薪几万，甚至几十万？](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653061561&idx=1&sn=15d54a4a4e8c3068e00586cdb939efc3&chksm=bd56a2858a212b93fe8795022a9675680b3a293621a6333899161a67230e1f2ef116a2ba5a03&scene=21#wechat_redirect)
 
+##### [副业月赚 10 万的程序员是如何做销售的？](https://mp.weixin.qq.com/s/-G9Jwi9CxuYyNMv5WEVCfw)
+
 ##### [超级干货：独立开发者如何快速完成一个商业化的项目](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653061606&idx=1&sn=1081a1b5039e7939219bf91d42fb9f60&chksm=bd56a2da8a212bcc0b43edeb1eec7f207bdb76e6ef34e2a5ff94549d4175260aca61a811f199&token=758710800&lang=zh_CN#rd)
 
 ##### [独立开发者：我特么不会设计 UI 怎么办？](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653061610&idx=1&sn=68a63e607e6b35e0defcf6ad7dd1161d&chksm=bd56a2d68a212bc0de2a46332708dd29fe6f247d12fed3037e3313e1eee0ae0d70f9ef477b3a&token=758710800&lang=zh_CN#rd)
